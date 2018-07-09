@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Convolutional Neural Networks (CNNs)
 
 This is a collection of Lecture Materials from a series of lectures given by [Ali Talib](https://www.linkedin.com/in/aliasgertalib) at [MoCoMakers events](https://www.meetup.com/MoCoMakers).
@@ -8,3 +9,8 @@ The lectures were hosted by [Montgomery County Makers (MoCo Makers)](http://www.
 - [Lecture 1](https://www.meetup.com/MoCoMakers/events/mdxsppyxhbrb/): The first lecture gave us an introduction into the concept of neural networks.
 - [Lecture 2](https://www.meetup.com/MoCoMakers/events/mdxsppyxhbkc/): We had deep dive into the code for shallow and deep networks, comparing the accuracy of the two.
 - [Lecture 3](https://www.meetup.com/MoCoMakers/events/mdxsppyxjbnb/): This lecture introduced us to Adversarial attacks that can be done against neural networks. We were also introduced to the principles behind Generative Adversarial Networks.
+=======
+# Presentation Powerpoints
+
+Note Material has been taken from many different contributors.
+>>>>>>> c4907238baac9a9c0c64f023906a7a8152faf334
