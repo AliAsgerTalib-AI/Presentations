@@ -11,10 +11,11 @@ The lectures were hosted by [Montgomery County Makers (MoCo Makers)](http://www.
 - [Lecture 2](https://www.meetup.com/MoCoMakers/events/mdxsppyxhbkc/): We had deep dive into the code for shallow and deep networks, comparing the accuracy of the two.
 - [Lecture 3](https://www.meetup.com/MoCoMakers/events/mdxsppyxjbnb/): This lecture introduced us to Adversarial attacks that can be done against neural networks. We were also introduced to the principles behind Generative Adversarial Networks.
 - [Lecture 4](https://www.meetup.com/MoCoMakers/events/251157875/): As  MakerSpace room was not available, This lecture was conducted in teh hallway and a study room on a notepad and pencil. I talked about GlobalAveragePooling layer, and explained about  GAN, how they work and why they are useful.
-
+- [Lecture 45](https://www.meetup.com/MoCoMakers/events/251136836/)Basic Introduction to Generative Adversarial Networks (GANS). 
+Demo MNIST - GAN and Celebretiy Faces GAN. Demo Programs were from the internet, Github links were provided.
 
 
 # Presentation Powerpoints
 
-Note Material has been taken from many different contributors and websites..
+Disclaimer: Material, Images, Code has been taken from many different contributors and websites..
 
