@@ -3,7 +3,7 @@
 
 This is a collection of AI Lectures given by me  [Ali Talib](https://www.linkedin.com/in/aliasgertalib) at [MoCoMakers events](https://www.meetup.com/MoCoMakers).
 
-The lectures were hosted by [Montgomery County Makers (MoCo Makers)](http://www.mocomakers.com/) based in the [Rockville Memorial Library](https://www.google.com/maps/search/?api=1&query=Rockville+Town+Square+Plaza%2C+30+Maryland+Ave%2C+Rockville%2C+MD%2C+us).
+The lectures were hosted by [rockville Science Center)](http://rockvillesciencecenter.org/) based in the [Rockville Memorial Library](https://www.google.com/maps/search/?api=1&query=Rockville+Town+Square+Plaza%2C+30+Maryland+Ave%2C+Rockville%2C+MD%2C+us).
 
 
 ## Lectures
