@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Convolutional Neural Networks (CNNs)
 
 This is a collection of AI Lectures given by me  [Ali Talib](https://www.linkedin.com/in/aliasgertalib) at [MoCoMakers events](https://www.meetup.com/MoCoMakers).
