@@ -15,7 +15,8 @@ Demo MNIST - GAN and Celebretiy Faces GAN. Demo Programs were from the internet,
 - [Lecture 6](Object Recognition, IoU, mAP, R-CNN, FAST R-CNN, tensor flow Object Detection API demo , using webcam)
   
   
-
+All my lectures are available from my students Github rep
+https://github.com/ChubaOraka/CNNs
 
 # Presentation Powerpoints
 
