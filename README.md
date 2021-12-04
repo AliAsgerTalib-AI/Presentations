@@ -5,6 +5,11 @@ This is a collection of AI Lectures given by me  [Ali Talib](https://www.linkedi
 The lectures were hosted by [Rockville Science Center)](http://rockvillesciencecenter.org/) based in the [Rockville Memorial Library](https://www.google.com/maps/search/?api=1&query=Rockville+Town+Square+Plaza%2C+30+Maryland+Ave%2C+Rockville%2C+MD%2C+us).
 
 
+
+All my lectures are available from my students Github repo at  https://github.com/ChubaOraka/CNNs
+
+
+
 ## Lectures
 - [Lecture 1](https://www.meetup.com/MoCoMakers/events/mdxsppyxhbrb/): In first lecture, I  gave  an introduction into the concept of neural networks esp Convolution Neural Nets.
 - [Lecture 2](https://www.meetup.com/MoCoMakers/events/mdxsppyxhbkc/): We had deep dive into the code for shallow and deep networks, comparing the accuracy of the two.
@@ -15,8 +20,7 @@ Demo MNIST - GAN and Celebretiy Faces GAN. Demo Programs were from the internet,
 - [Lecture 6](Object Recognition, IoU, mAP, R-CNN, FAST R-CNN, tensor flow Object Detection API demo , using webcam)
   
   
-All my lectures are available from my students Github rep
-https://github.com/ChubaOraka/CNNs
+
 
 # Presentation Powerpoints
 
